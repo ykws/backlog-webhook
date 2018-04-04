@@ -1,4 +1,4 @@
 <?php 
 
-$jsonString = $_POST['paylaod'];
+$jsonString = $_POST['payload'];
 error_log($jsonString);
